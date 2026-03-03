@@ -100,7 +100,7 @@
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok-mapstruct-binding</artifactId>
                             <version>0.2.0</version>
-                        </path>S
+                        </path>
 					</annotationProcessorPaths>
 				</configuration>
 			</plugin>
